@@ -1,0 +1,8 @@
+name: beautifulplugin
+version: '1.0-SNAPSHOT'
+main: afutik.beautifulplugin.BeautifulPlugin
+api-version: '1.21'
+commands:
+  roll:
+    description: Your command description
+    usage: /roll
