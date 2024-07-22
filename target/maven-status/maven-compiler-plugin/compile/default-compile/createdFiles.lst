@@ -1,2 +1,5 @@
 afutik\beautifulplugin\BeautifulPlugin.class
+afutik\beautifulplugin\listeners\BlockBreak.class
+afutik\beautifulplugin\TabExtended.class
+afutik\beautifulplugin\TabExtended$1.class
 afutik\beautifulplugin\commands\RollCommand.class
